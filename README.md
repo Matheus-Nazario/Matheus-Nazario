@@ -7,7 +7,7 @@
 
 <h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">   __Welcome Geek__ Prazer sou o Matheus Nazário    👨‍🚀  </h1> <br/>
 <div slyle = 'text-align: center' align = 'center'>
-       Dev Back-end Pyhton 🐍  | C# .NET   |  java ♨  | SQLAlchemy 
+       Dev Back-end Pyhton 🐍  | SQL | C# .NET   |  Django 🤠  | SQLAlchemy 
 </div>
 <br/>
 <div slyle = 'text-align: center' align = 'center'>
@@ -26,16 +26,16 @@
 
 </div>
 
-#### Meus técnicos 🚀
+#### _My Tech_  🚀
 
-- ` Pyhton | SQL | C# | .NET | Javascript | Nodejs | Docker | Java  `
+- `  Pyhton 🐍 | AWS | SQL | SQLAlchemy | Django 🤠 | Git | C# | .NET | Javascript | Nodejs | Docker | Salesforce APEX `
 
-#### Minhas Atividades Atuais 👨‍🚀👨🏻‍💻 
+#### _Minhas Atividades Atuais_ 👨‍🚀👨🏻‍💻 
 
 - AWS
+- Bootcamp Avanade *Decola Tech* 
 - API
 - Arquitetura de microsserviços
-- DevOps
 
 
 ## Sobre mim
