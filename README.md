@@ -22,7 +22,7 @@
 
 <div slyle = 'text-align: center' align = 'center'>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus-Nazario&show_icons=true&theme=radical)
+![Matheus-Nazario's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus-Nazario&hide=contribs,prs&theme=radical)
 
 </div>
 
