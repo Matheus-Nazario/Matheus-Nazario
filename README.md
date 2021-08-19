@@ -1,12 +1,15 @@
 <p align = "center">
   <a href="https://www.linkedin.com/in/matheus-naz%C3%A1rio-676411b3/">
-    <img src = "https://ibb.co/DwdbrB3" alt = "cover" title = "Matheus nazário" border = "0">
-  </a>
+    <img src="https://i.ibb.co/1LyDXjc/geek-Matheus.png" alt="geek-Matheus" border="0" /></a>
 </p>
 
-<h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hellow Mundão! Welcome Geek, Prazer sou o Matheus Nazário 👨‍🚀 <br/>
-      👨‍🚀 Desenvolvedor Back-end Pyhton 🐍 | C# .NET  | java ♨ | SQLAlchemy  </h1>
 
+
+<h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">   __Welcome Geek__ Prazer sou o Matheus Nazário    👨‍🚀  </h1> <br/>
+<div slyle = 'text-align: center' align = 'center'>
+       Dev Back-end Pyhton 🐍  | C# .NET   |  java ♨  | SQLAlchemy 
+</div>
+<br/>
 <div slyle = 'text-align: center' align = 'center'>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-nazário-676411b3/)](https://www.linkedin.com/in/matheus-nazário-676411b3/)
@@ -19,7 +22,7 @@
 
 <div slyle = 'text-align: center' align = 'center'>
 
-! [Top-langs do github de Matheus] (https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Nazario&layout=compact&theme=algolia&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus-Nazario&show_icons=true&theme=radical)
 
 </div>
 
@@ -27,23 +30,23 @@
 
 - ` Pyhton | SQL | C# | .NET | Javascript | Nodejs | Docker | Java  `
 
-#### 👨‍🚀 Atualmente as minhas atividades são 
+#### Minhas Atividades Atuais 👨‍🚀👨🏻‍💻 
 
 - AWS
 - API
-- arquitetura de microsserviços
+- Arquitetura de microsserviços
 - DevOps
 
 
 ## Sobre mim
 
 - ❤ Apaixonado por tecnologia 
-- 👨‍💻 4 anos como desenvolvedor full stack mas com foco maior no Back-end.
+- 👨‍💻 4 anos como desenvolvedor full stack com o foco maior no Back-end.
 - 👨‍🎓 Engenharia de Produçlão (2018) & Análise e desenvolvimento de sistemas (2022).
 
 
-## Estatísticas do meu Git 😸
+## Estatística do meu Git 😸
 
-! [Estatísticas do github de Matheus] (https://github-readme-stats.vercel.app/api?username=Matheus-Nazario&show_icons=true&theme=)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Nazario&layout=compact&theme=radical)
 
-! [visitantes] (https://visitor-badge.glitch.me/badge?page_id=Matheus-Nazario.Matheus-Nazario)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Matheus-Nazariopage.id)
