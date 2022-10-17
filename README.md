@@ -28,7 +28,7 @@
 
 #### _My Tech_  🚀
 
-- `  Pyhton 🐍 | AWS | SQL | SQLAlchemy | Django 🤠 | Git | C# | .NET | Javascript | Nodejs | Docker | Salesforce APEX `
+- `  Java | Spring Boot| Pyhton 🐍 | AWS | SQL | SQLAlchemy | Django 🤠 | Git | C# | .NET | Javascript | Nodejs | Docker | Salesforce APEX `
 
 #### _Minhas Atividades Atuais_ 👨‍🚀👨🏻‍💻 
 
