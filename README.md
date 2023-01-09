@@ -7,7 +7,7 @@
 
 <h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">   __Welcome Geek__ Prazer sou o Matheus Nazário    👨‍🚀  </h1> <br/>
 <div slyle = 'text-align: center' align = 'center'>
-       Dev Back-end Pyhton 🐍  | SQL | Java | Spring Boot|  Django 🤠  | SQLAlchemy 
+       Dev Back-end Java | Spring Boot |  Pyhton 🐍  | MySQL | MongoDB   
 </div>
 <br/>
 <div slyle = 'text-align: center' align = 'center'>
