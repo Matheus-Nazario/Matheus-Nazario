@@ -41,7 +41,7 @@
 ## Sobre mim
 
 - ❤ Apaixonado por tecnologia 
-- 👨‍💻 4 anos como desenvolvedor full stack com o foco maior no Back-end.
+- 👨‍💻 8 anos como desenvolvedor full stack com o foco maior no Back-end.
 - 👨‍🎓 Engenharia de Produçlão (2018) & Análise e desenvolvimento de sistemas (2022).
 
 
